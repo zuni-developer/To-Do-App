@@ -37,7 +37,7 @@ This project helped me practice:
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/To-Do-App.git
+git clone https://github.com/zuni-developer/To-Do-App.git
 ```
 
 Navigate into the project
@@ -68,9 +68,7 @@ npm run build
 
 ## Preview
 
-```
 /public/preview.png
-```
 
 ---
 
