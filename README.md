@@ -16,6 +16,12 @@ A simple and responsive To-Do application built with React to practice the core 
 
 ---
 
+## Preview
+
+![Preview](public/preview.png)
+
+---
+
 ## React Concepts Practiced
 
 This project helped me practice:
@@ -63,12 +69,6 @@ Build for production
 ```bash
 npm run build
 ```
-
----
-
-## Preview
-
-![Preview](public/preview.png)
 
 ---
 
